@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetim
 
 def daily_activity_1():
     now = datetime.now()
